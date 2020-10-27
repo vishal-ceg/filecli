@@ -1,0 +1,12 @@
+{
+    "version": "v1.1.0",
+    "url":  "https://github.com/vishal-ceg/CLI-demo/releases/download/v1.1.0/filecli.exe",
+    "bin": [
+        [
+          "filecli.exe",
+          "filecli"
+        ]
+    ],
+    "homepage": "https://github.com/vishal-ceg/CLI-demo",
+    "description": "test"
+}
